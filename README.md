@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Edson Ray E. San Juan <br><br>- I'm currently studying at Technological Institute of the Philippines, currently taking the course Bachelor of Science in Computer Engineering</p>
+<p align="left">I'm Edson Ray E. San Juan <br><br>- I'm currently studying at Technological Institute of the Philippines, currently taking the course Bachelor of Science in Computer Engineering major in Human Computer Interaction</p>
 
 ###
 
@@ -53,6 +53,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EdsonRay05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
